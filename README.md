@@ -4,6 +4,12 @@ GiftMate AI is an AI-powered gifting assistant designed to solve a major but ove
 
 Most gifting platforms focus on providing more options. Through user research and behavioral analysis, we identified that users do not lack options — they lack confidence that their choice is the “right” one.
 
+## Live Prototype
+
+Try the working prototype: [giftmateai.lovable.app](https://giftmateai.lovable.app/)
+
+The prototype is built with Lovable to test the core idea: the app listens, builds a portrait of who you are buying for, and picks gifts that show you were paying attention. It is a prototype for validating the concept, not a production app.
+
 ## Problem Statement
 
 Users often:
