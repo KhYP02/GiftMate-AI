@@ -1,4 +1,4 @@
-# GiftMate AI — Confidence-Driven Gifting Assistant
+# GiftMate AI : Confidence-Driven Gifting Assistant
 
 GiftMate AI is an AI-powered gifting assistant designed to solve a major but overlooked problem in gifting: decision confidence.
 
